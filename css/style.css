@@ -51,5 +51,49 @@
   color: #1ed760;
 }
 
+#banner {
+  width: 100%;
+  height: 855px;
+  background-color: hotpink;
+  background-image: url("../images/banner_bg.jpg");
+  padding-top: 1px;
+  text-align: center;
+}
+
+#banner h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 156px;
+  color: #1ed760;
+  line-height: 180px;
+}
+
+#banner p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: #1ed760;
+  padding-top: 45px;
+}
+
+#banner a {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: #2d45ba;
+  font-size: 18px;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #1ed760;
+  width: auto;
+  padding: 18px 26px;
+  border-radius: 50px;
+  margin-top: 58px;
+}
+
+#banner a:hover {
+  background-color: #ffffff;
+}
+
+
 
 
